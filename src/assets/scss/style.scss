@@ -1,0 +1,5 @@
+@use './vars'as*;
+@use 'bootstrap/scss/bootstrap';
+body {
+    font-family: $main-font;
+}
